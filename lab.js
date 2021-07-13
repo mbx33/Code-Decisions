@@ -34,12 +34,12 @@ var brittanisBirthYear = 1986
     }
 
 
-// if (amysAge < brittanisAge){
-//       console.log("Amy is younger than Brittani!");
-//     }
-//       else(amysAge > brittanisAge){
-//         console.log("Brittani is oler!!");
-//       }
+if (amysAge < brittanisAge){
+      console.log("Amy is younger than Brittani!");
+    }
+      else{
+        console.log("Brittani is older!!");
+      }
       
 
 
